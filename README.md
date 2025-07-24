@@ -11,6 +11,7 @@ A conversational chatbot that responds in a friendly tone.
 > ✅ Maintains short context history  
 > ✅ Runs 100% locally on-device  
 
+[🗂️ ChatBot](./ChatBot/)  
 ![ChatBot Demo](./Demos/chatBot.gif)
 
 ### 2. 📝 Grammar Correction  
@@ -19,6 +20,7 @@ An English tutor that checks your sentence, explains grammar mistakes, and provi
 > ✅ Offers detailed explanations  
 > ✅ Runs 100% locally on-device  
 
+[🗂️ GrammarCorrection](./GrammarCorrection/)  
 ![GrammarCorrection Demo](./Demos/grammarCorrection.gif)
 
 ---
