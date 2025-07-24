@@ -13,6 +13,14 @@ A conversational chatbot that responds in a friendly tone.
 
 ![ChatBot Demo](./Demos/chatBot.gif)
 
+### 2. 📝 Grammar Correction  
+An English tutor that checks your sentence, explains grammar mistakes, and provides corrections.  
+> ✅ Powered by `SystemLanguageModel`  
+> ✅ Offers detailed explanations  
+> ✅ Runs 100% locally on-device  
+
+![GrammarCorrection Demo](./Demos/grammarCorrection.gif)
+
 ---
 
 ## 💡 About FoundationModels
