@@ -23,6 +23,16 @@ An English tutor that checks your sentence, explains grammar mistakes, and provi
 [🗂️ GrammarCorrection](./GrammarCorrection/)  
 ![GrammarCorrection Demo](./Demos/grammarCorrection.gif)
 
+### 3. 🍳 Recipe Generator  
+Creates cooking recipes with clear step-by-step instructions.
+> ✅ Powered by `SystemLanguageModel`  
+> ✅ Supports streaming output for recipe generation  
+> ✅ Produces structured results (title, ingredients, steps)  
+> ✅ Runs 100% locally on-device  
+
+[🗂️ RecipeGenerator](./RecipeGenerator/)  
+![RecipeGenerator Demo](./Demos/recipeGenerator.gif)
+
 ---
 
 ## 💡 About FoundationModels
