@@ -33,6 +33,16 @@ Creates cooking recipes with clear step-by-step instructions.
 [🗂️ RecipeGenerator](./RecipeGenerator/)  
 ![RecipeGenerator Demo](./Demos/recipeGenerator.gif)
 
+### 4. 🏋️‍♀️ AI Workout Plan Generator
+Generates personalized workout routines tailored to your goals, equipment, and experience level.
+> ✅ Powered by FoundationModels (on-device)
+> ✅ Fully customizable inputs (goal, duration, equipment, level)
+> ✅ Produces clear step-by-step exercise lists
+> ✅ Runs 100% locally—no network required
+
+[🗂️ WorkoutGuide](./WorkoutGuide/)  
+![WorkoutGuide Demo](./Demos/workoutGuide.gif)
+
 ---
 
 ## 💡 About FoundationModels
