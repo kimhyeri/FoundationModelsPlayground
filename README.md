@@ -43,6 +43,16 @@ Generates personalized workout routines tailored to your goals, equipment, and e
 [🗂️ WorkoutGuide](./WorkoutGuide/)  
 ![WorkoutGuide Demo](./Demos/workoutGuide.gif)
 
+### 5. 🌙 CozyTales — Calm Storytelling for Children
+An on-device storytelling app that generates calming, child-friendly stories in real time—designed to help children relax in stressful situations such as flights, bedtime, or unfamiliar environments.
+> ✅ Powered by `SystemLanguageModel`  
+> ✅ Generates safe, soothing stories entirely on-device  
+> ✅ Adjustable story length (1–12 minutes)  
+> ✅ Real-time text-to-speech playback using `AVSpeechSynthesizer`  
+
+[🗂️ CozyTales](./CozyTales/)  
+![CozyTales Demo](./Demos/cozyTales.gif)
+
 ---
 
 ## 💡 About FoundationModels
