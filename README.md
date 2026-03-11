@@ -53,6 +53,17 @@ An on-device storytelling app that generates calming, child-friendly stories in 
 [🗂️ CozyTales](./CozyTales/)  
 ![CozyTales Demo](./Demos/cozyTales.gif)
 
+### 6. 🌤️ Weather Outfit Advisor
+An on-device assistant that checks the weather for a city and suggests what to wear based on the conditions.
+> ✅ Powered by `SystemLanguageModel`  
+> ✅ Uses a custom `Tool` (`get_weather`) for weather lookup  
+> ✅ Streams outfit advice in real time  
+> ✅ Displays structured weather info (temperature, humidity, wind, condition)  
+> ✅ Runs 100% locally on-device  
+
+[🗂️ WeatherOutfitAdvisor](./WeatherOutfitAdvisor/)  
+![WeatherOutfitAdvisor Demo](./Demos/weatherOutfitAdvisor.gif)
+
 ---
 
 ## 💡 About FoundationModels
